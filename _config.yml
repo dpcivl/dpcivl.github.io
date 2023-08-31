@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "싸잡"
 description              : "고졸이면 노가다 해야지..."
-url                      : <{{ site.url }}{{ site.baseurl }}/blog/start-blog/>
+url                      : "https://dpcivl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
