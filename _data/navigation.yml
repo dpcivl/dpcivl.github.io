@@ -4,7 +4,5 @@ main:
     url: https://cyberhandyman.kr/
   - title: "카테고리"
     url: /categories/
-  - title: "태그"
-    url: /tags/
   - title: "소개"
     url: /about/
