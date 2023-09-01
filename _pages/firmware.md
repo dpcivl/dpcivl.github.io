@@ -1,7 +1,7 @@
 ---
 title: "about Firmware"
 layout: category
-permalink: /categories/firmware
+permalink: /firmware
 author_profile: true
 taxonomy: firmware
 ---

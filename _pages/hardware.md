@@ -1,7 +1,7 @@
 ---
 title: "about Hardware"
 layout: category
-permalink: /categories/hardware
+permalink: /hardware
 author_profile: true
 taxonomy: hardware
 ---

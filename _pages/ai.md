@@ -1,7 +1,7 @@
 ---
 title: "about AI"
 layout: category
-permalink: /categories/ai
+permalink: /ai
 author_profile: true
 taxonomy: ai
 ---
