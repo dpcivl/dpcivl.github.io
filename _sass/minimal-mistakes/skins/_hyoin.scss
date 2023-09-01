@@ -1,0 +1,24 @@
+/* ==========================================================================
+   Hyoin skin
+   ========================================================================== */
+
+   
+/* Colors with fixed background */
+$background-color: #d8d4ea !default;  // Lavender (Fixed)
+$text-color: #4a4a66 !default;        // Dark Lavender
+$muted-text-color: #7f7c8e !default;  // Muted Lavender
+$primary-color: #63458a !default;     // Dark Purple
+$border-color: mix(#d8d4ea, #4a4a66, 75%) !default;  // Blended for better transition
+$footer-background-color: #63458a !default;  // Dark Purple
+$link-color: #4a4a66 !default;       // Dark Lavender
+$masthead-link-color: $text-color !default;  // White
+$masthead-link-color-hover: #d8d4ea !default;  // Lavender (Same as background for a subtle hover effect)
+$navicon-link-color-hover: mix(#d8d4ea, $text-color, 80%) !default;  // Blended
+
+.page__footer {
+  color: #eae6f4 !important;  // Light Lavender for contrast
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;  // Inherit from parent
+}
