@@ -3,14 +3,17 @@ title:  "[파이썬] 다중 상속"
 excerpt: "공부하고 나니 내겐 필요없는 다중 상속..."
 
 categories:
+    - guitar
     - software
-    - software/summary
 
 tags:
     - 파이썬 다중 상속
     - 다중 상속
     - C3 선형화
     - MRO
+
+toc: true
+toc_sticky: true
 
 date: YYYY-MM-DD HH:MM:SS +09:00
 ---

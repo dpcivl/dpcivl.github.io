@@ -1,14 +1,14 @@
 ---
-title: "Machine Learning / Deep Learning"
+title: "소프트웨어 관련"
 layout: archive
-permalink: /ai
+permalink: /guitar/software
 author_profile: true
 types: posts
 sidebar:
     nav: "docs"
 ---
 
-{% assign posts = site.categories['ai']%}
+{% assign posts = site.categories['guitar/software']%}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}
