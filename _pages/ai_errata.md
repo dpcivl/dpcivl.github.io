@@ -8,7 +8,7 @@ sidebar:
     nav: "docs"
 ---
 
-{% assign posts = site.categories['ai/errata']%}
+{% assign posts = site.categories['ai_errata']%}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}
