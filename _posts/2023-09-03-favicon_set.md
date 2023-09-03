@@ -58,6 +58,10 @@ date: YYYY-MM-DD HH:MM:SS +09:00
 *custom.html*에 들어가면 위와 같이 적용이 되어있을 거다. ~~font 적용 빼고...~~
 저기 보면 `insert favicons`라고 하는 코멘트가 있는데 그 밑에 소스 코드를 넣으면 된다.  
 아 소스 코드는 파비콘 사이트의 3번 항목에 있는 코드를 복붙해서 넣어주면 된다.  
+> 혹시나 안 보인다면..??  
+
+![image](https://github.com/dpcivl/dpcivl.github.io/assets/95332280/5feb3ad3-c869-4918-90dd-69c72862c2d6)  
+`href`의 경로를 위의 사진처럼 변경해준다. (baseurl 항목 추가)  
 여기까지 하면 파비콘 설정은 끝이 난 것이다.
 
 ### 추가) 파비콘 적용 확인
