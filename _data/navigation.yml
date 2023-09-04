@@ -20,6 +20,6 @@ docs:
   - title: 기타
     children:
       - title: "software"
-        url: /guitar/software
+        url: /software
       - title: "github.io"
-        url: /guitar/blog
+        url: /blog

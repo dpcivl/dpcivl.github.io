@@ -5,7 +5,6 @@ excerpt: "깃허브 블로그에 파비콘을 설정해보자!!"
 
 # 카테고리, 태그
 categories:
-    - guitar
     - blog
 tags:
     - 깃허브 블로그 파비콘

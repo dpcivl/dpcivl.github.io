@@ -1,7 +1,7 @@
 ---
 title: "소프트웨어 관련"
 layout: archive
-permalink: /guitar/software
+permalink: /software
 author_profile: true
 types: posts
 sidebar:

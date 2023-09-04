@@ -1,7 +1,7 @@
 ---
 title: "깃허브 블로그 설정 관련"
 layout: archive
-permalink: /guitar/blog
+permalink: /blog
 author_profile: true
 types: posts
 sidebar:
