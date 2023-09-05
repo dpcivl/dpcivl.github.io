@@ -16,7 +16,7 @@ toc_sticky: true
 
 date: YYYY-MM-DD HH:MM:SS +09:00
 ---
-### 개요
+# 개요
 **작성날짜 : 2023-09-03**
 
 오늘은 minimal-mistakes에서 어떻게 파비콘을 설정하는지에 대해 구현해보고 글을 작성한다.  
