@@ -15,7 +15,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2023-09-05
+last_modified_at: 2023-09-05
 ---
 **작성 날짜 : 2023년 9월 5일**  
 

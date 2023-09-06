@@ -14,7 +14,8 @@ tags:
 toc: true
 toc_sticky: true
 
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2023-09-01
+last_modified_at: 2023-09-01
 ---
 
 # 다중 상속이란?  
