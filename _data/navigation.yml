@@ -9,14 +9,13 @@ main:
 
 docs:
   - title: 인공지능
-    url: /ai
     children:
       - title: "일단 시도는 해봄"
-        url: /ai/trial
+        url: /trial
       - title: "근데 막혀서 공부함"
-        url: /ai/summary
+        url: /summary
       - title: "막혔던 거 풀었던 썰"
-        url: /ai/errata
+        url: /errata
   - title: 기타
     children:
       - title: "software"
