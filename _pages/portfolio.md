@@ -5,4 +5,4 @@ permalink: /portfolio/
 author_profile: false
 ---
 
-차린 건 없지만 맛있게 드십시오.
+준비 중입니다.
