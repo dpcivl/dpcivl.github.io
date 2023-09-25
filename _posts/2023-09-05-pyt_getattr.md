@@ -5,7 +5,7 @@ excerpt: "아주아주 기초적인 getattr()에 대한 공부"
 
 # 카테고리, 태그
 categories:
-    - software
+    - notes
 tags:
     - getattr
     - 파이썬 getattr

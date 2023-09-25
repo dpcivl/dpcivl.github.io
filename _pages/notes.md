@@ -1,14 +1,14 @@
 ---
-title: "깃허브 블로그 설정 관련"
+title: "Notes for learning"
 layout: archive
-permalink: /blog
+permalink: /notes
 author_profile: true
 types: posts
 sidebar:
     nav: "docs"
 ---
 
-{% assign posts = site.categories['blog']%}
+{% assign posts = site.categories['notes']%}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}

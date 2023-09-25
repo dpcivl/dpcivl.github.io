@@ -1,14 +1,14 @@
 ---
-title: "AI 관련 에러 해결"
+title: "Today I learned"
 layout: archive
-permalink: /errata
+permalink: /til
 author_profile: true
 types: posts
 sidebar:
     nav: "docs"
 ---
 
-{% assign posts = site.categories['errata']%}
+{% assign posts = site.categories['til']%}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}

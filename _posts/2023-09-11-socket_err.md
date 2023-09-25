@@ -5,7 +5,7 @@ excerpt: "파이썬으로 소켓 통신 구현할 때 자주 발생하는 에러
 
 # 카테고리, 태그
 categories:
-    - software
+    - error
 tags:
     - 파이썬 소켓 통신 에러
 

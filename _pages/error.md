@@ -1,14 +1,14 @@
 ---
-title: "AI 관련 공부 내용 요약 정리"
+title: "How I solved error"
 layout: archive
-permalink: /summary
+permalink: /error
 author_profile: true
 types: posts
 sidebar:
     nav: "docs"
 ---
 
-{% assign posts = site.categories['summary']%}
+{% assign posts = site.categories['error']%}
 {% for post in posts %}
   {% include archive-single.html type=page.entries_layout %}
 {% endfor %}

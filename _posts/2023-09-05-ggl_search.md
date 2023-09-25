@@ -5,7 +5,7 @@ excerpt: "내 블로그를 모두에게 알리자!"
 
 # 카테고리, 태그
 categories:
-    - blog
+    - trial
 tags:
     - 깃허브 블로그 구글 노출
     - 깃허브 블로그 네이버 노출

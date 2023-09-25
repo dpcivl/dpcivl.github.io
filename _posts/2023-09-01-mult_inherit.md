@@ -3,7 +3,7 @@ title:  "[파이썬] 다중 상속"
 excerpt: "공부하고 나니 내겐 필요없는 다중 상속..."
 
 categories:
-    - software
+    - notes
 
 tags:
     - 파이썬 다중 상속

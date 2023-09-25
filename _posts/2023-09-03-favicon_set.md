@@ -5,7 +5,7 @@ excerpt: "깃허브 블로그에 파비콘을 설정해보자!!"
 
 # 카테고리, 태그
 categories:
-    - blog
+    - trial
 tags:
     - 깃허브 블로그 파비콘
     - minimal-mistakes 파비콘

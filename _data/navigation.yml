@@ -8,17 +8,15 @@ main:
     url: /categories/
 
 docs:
-  - title: 인공지능
+  - title: trial and error
     children:
-      - title: "일단 시도는 해봄"
+      - title: "trial"
         url: /trial
-      - title: "근데 막혀서 공부함"
-        url: /summary
-      - title: "막혔던 거 풀었던 썰"
-        url: /errata
-  - title: 기타
+      - title: "error"
+        url: /error
+  - title: Go steady
     children:
-      - title: "software"
-        url: /software
-      - title: "github.io"
-        url: /blog
+      - title: "Today I learned"
+        url: /til
+      - title: "notes"
+        url: /notes
