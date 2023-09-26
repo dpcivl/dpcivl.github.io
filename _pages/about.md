@@ -3,7 +3,15 @@ title: "소개"
 permalink: /about/
 layout: single
 ---
+# My career
+began in **Sep 26th, 2022**  
 
-## dpcivl.github.io 블로그
+# Focus on
+- Embedded
+- AI
+- C++
+- Python
+- Image segmentation
 
-준비 중입니다.
+# Also interested in
+- Augmented Reality
