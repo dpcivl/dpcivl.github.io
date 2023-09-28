@@ -16,7 +16,5 @@ docs:
         url: /error
   - title: Go steady
     children:
-      - title: "Today I learned"
-        url: /til
       - title: "notes"
         url: /notes
