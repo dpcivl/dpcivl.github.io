@@ -8,13 +8,7 @@ main:
     url: /categories/
 
 docs:
-  - title: trial and error
+  - title: boards
     children:
-      - title: "trial"
-        url: /trial
-      - title: "error"
-        url: /error
-  - title: Go steady
-    children:
-      - title: "notes"
-        url: /notes
+      - title: "STM32F746G-DISCO"
+        url: /32f746
