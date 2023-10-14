@@ -11,4 +11,4 @@ docs:
   - title: boards
     children:
       - title: "STM32F746G-DISCO"
-        url: /32f746
+        url: /f746
