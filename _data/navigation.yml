@@ -8,7 +8,11 @@ main:
     url: /categories/
 
 docs:
-  - title: boards
+  - title: STM
     children:
       - title: "STM32F746G-DISCO"
         url: /f746
+  - title: Raspberry Pi
+    children:
+      - title: "Raspberry Pi CM3+"
+        url: /CM3plus
