@@ -20,7 +20,7 @@ title                    : "땀 흘리는 AI"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "땀 흘리는 AI"
-description              : "목표는 C++로 딥러닝 구현"
+description              : "목표 << C++로 AIoT 구현"
 url                      : "https://dpcivl.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
