@@ -4,12 +4,16 @@ main:
     url: https://dpcivl.github.io/
   - title: "소개"
     url: /about/
+  - title: "태그"
+    url: /tags/
   - title: "카테고리"
     url: /categories/
 
 docs:
   - title: Board
     children:
+      - title: "STM32C0316-DK"
+        url: /c0316
       - title: "STM32F746G-DISCO"
         url: /f746
       - title: "Raspberry Pi CM3+"
