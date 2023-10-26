@@ -18,3 +18,5 @@ docs:
         url: /f746
       - title: "Raspberry Pi CM3+"
         url: /CM3plus
+      - title: "I.MX 8M Plus - EVK"
+        url: /imx8mp
