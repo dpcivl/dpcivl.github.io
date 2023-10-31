@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://dpcivl.github.io/sitemap.xml
+Sitemap: https://cyberhandyman.kr/sitemap.xml
