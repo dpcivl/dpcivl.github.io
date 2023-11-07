@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://cyberhandyman.kr/sitemap.xml
