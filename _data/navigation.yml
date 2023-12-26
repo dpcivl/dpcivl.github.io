@@ -10,13 +10,11 @@ main:
     url: /categories/
 
 docs:
-  - title: Board
+  - title: 천천히, 꾸준히.
     children:
-      - title: "STM32C0316-DK"
-        url: /c0316
-      - title: "STM32F746G-DISCO"
-        url: /f746
-      - title: "Raspberry Pi CM3+"
-        url: /CM3plus
-      - title: "I.MX 8M Plus - EVK"
-        url: /imx8mp
+      - title: "basics"
+        url: /basics
+      - title: "papers"
+        url: /papers
+      - title: "implement"
+        url: /implement

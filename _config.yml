@@ -20,7 +20,7 @@ title                    : "땀 흘리는 AI"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "땀 흘리는 AI"
-description              : "목표 << C++로 AIoT 구현"
+description              : "고졸 데싸 도전기"
 url                      : "https://cyberhandyman.kr"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "박효인"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "고졸이라서 노가다 배우고 있습니다..."
+  bio              : "최고가 되려면 최고의 삶을 따라해야 한다."
   location         : "South Korea"
   email            : #"dpcivl713@gmail.com"
   links:
