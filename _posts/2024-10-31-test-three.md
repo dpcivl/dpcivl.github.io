@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "테스트 중입니다.3"
-date:   2024-10-31 18:00
+date:   2024-10-31
 categories: bbibbi
 published: true
 ---
