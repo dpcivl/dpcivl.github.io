@@ -2,3 +2,23 @@
 ---
 
 @import "jekyll-theme-minimal";
+
+/* 태그와 다음 글 링크 간의 간격 조정 */
+.tags {
+    margin-bottom: 20px; /* 태그와 다음 요소 사이의 간격 설정 */
+  }
+  
+  .pagination {
+    margin-top: 20px; /* 이전/다음 글 링크와 위 요소 사이의 간격 설정 */
+  }
+  
+  .pagination {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px; /* 위 요소와의 간격 설정 */
+  }
+  
+  .pagination a {
+    text-decoration: none;
+  }
+  
